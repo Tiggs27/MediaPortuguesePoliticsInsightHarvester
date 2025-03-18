@@ -1,2 +1,2 @@
 # MediaPortuguesePoliticsInsightHarvester
-Analysis of the bias within popular media newspapers regarding political positions
+Analysis of the bias within popular media newspapers regarding it's political positions
